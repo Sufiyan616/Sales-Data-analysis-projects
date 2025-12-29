@@ -2,7 +2,7 @@ Init# Sales Data Analysis Project
 
 ## Tools Used
 - SQL
-- Python (Pandas, Matplotlib)
+- Python (Pandas)
 - Power BI
 
 ## Project Objective
